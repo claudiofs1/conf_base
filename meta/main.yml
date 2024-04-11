@@ -1,7 +1,7 @@
 ---
 galaxy_info:
   role_name: conf_base
-  author: sua_conta_github
+  author: claudiofs1
   description: Configuracao Base de usuários, pacotes e hosts
   company: 4Linux
   license: GPLv3
